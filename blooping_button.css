@@ -1,0 +1,10 @@
+span.blooper{
+    border: 1px solid black;
+    width: 50px;
+    height: 50px;
+    border-radius:50%;
+    display:block;
+    margin:auto;
+    position:relative;
+    top:400px;
+}
