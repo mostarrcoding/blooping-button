@@ -13,8 +13,8 @@ span.blooper{
     border-radius:50%;
     display:block;
     margin:auto;
-    position:static;
-    top:400px;
+    position:relative;
+	left: 40px;
     animation-name: ripple;
     animation-duration: 4s;
 }
