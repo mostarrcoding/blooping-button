@@ -8,3 +8,13 @@ span.blooper{
     position:relative;
     top:400px;
 }
+
+span.line{
+	border: 1px solid black;
+	width: 20px;
+	height: 0px;
+	position:relative;
+    top:400px;
+	display:block;
+    margin:auto;
+}
