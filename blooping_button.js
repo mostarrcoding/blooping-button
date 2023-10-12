@@ -10,3 +10,19 @@ function bloop(){
 *(account for size of circle if using centerpoint)--
 *sliding
 */
+
+function slide(){
+	
+}
+
+function collide(){
+	
+}
+
+function ripple(){
+	
+}
+
+function reflect(){
+	
+}
